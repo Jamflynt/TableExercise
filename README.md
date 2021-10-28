@@ -23,3 +23,10 @@ Spider-Man: No Way Home
 Main Character(s): Spider-Man
 Release Date: December 17th 2021
 IMDB Page: https://www.imdb.com/title/tt10872600 (edited) 
+
+Bonus…
+1. Create 2nd file in the TablesExercise folder called marvel.html
+2. Set the title of the marvel.html page to “Marvel”
+3. Back in the index.html file create a link below the table with the text of “MARVEL STUDIOS” inside it that goes to marvel.html page
+4. Add/include a marvel related gif on marvel.html page (Hint: giphy.com)
+5. Also, make sure there is a link on the Marvel page to get back to the main page.
