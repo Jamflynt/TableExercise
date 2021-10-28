@@ -8,6 +8,7 @@ Tables Exercise…
 4. Be sure to put images inside of the TablesExercise folder you create
 5. Recreate the webpage show in the images below
 6. NOTE: The border is not necessary, but you are welcome to add one
+
 Shang-Chi and the Legend of the Ten Rings
 Main Character(s): Shang-Chi
 Release Date: September 3rd 2021
